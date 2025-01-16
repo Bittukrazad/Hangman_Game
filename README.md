@@ -3,10 +3,13 @@
 Multiplayer Hangman Game 🕹️
 
 
+
 Multiplayer Hangman is an interactive word-guessing game built with Python. Designed for 2-4 players, the game combines classic Hangman gameplay with modern features to create a fun, engaging, and competitive experience. Perfect for casual fun or coding enthusiasts looking to explore game development concepts!
 
 
+
 Features 🎮
+
 
 
 Multiplayer Mode: Play with up to 4 players and compete for the highest score.
@@ -24,7 +27,9 @@ Interactive Scoreboard: Tracks scores in real time for all players.
 Leaderboard Integration: Persistent leaderboard to showcase top players.
 
 
+
 How It Works 🔧
+
 
 
 Choose the number of players (2-4).
@@ -39,7 +44,9 @@ The game ends when all rounds are complete, and the player with the highest scor
 
 
 
+
 What Makes It Unique ✨
+
 
 
 This Hangman game is designed to be both fun and educational, featuring:
@@ -52,7 +59,9 @@ A dynamic and interactive interface that adapts to the player's progress.
 
 
 
+
 Future Improvements 🚀
+
 
 
 Online multiplayer mode for cross-device gameplay.
